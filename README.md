@@ -18,5 +18,5 @@ Hardware
 
 Software
 
-    ROS 2 (tested with [Distro Name, e.g., Humble, Iron]).
+    ROS 2 Humble
     rclcpp, geometry_msgs, and other standard ROS 2 dependencies.
